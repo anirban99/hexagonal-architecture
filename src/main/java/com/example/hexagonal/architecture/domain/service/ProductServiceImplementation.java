@@ -1,8 +1,8 @@
-package com.baeldung.hexagonal.architecture.domain.service;
+package com.example.hexagonal.architecture.domain.service;
 
-import com.baeldung.hexagonal.architecture.domain.model.Product;
-import com.baeldung.hexagonal.architecture.port.ProductRepository;
-import com.baeldung.hexagonal.architecture.port.ProductService;
+import com.example.hexagonal.architecture.domain.model.Product;
+import com.example.hexagonal.architecture.port.ProductRepository;
+import com.example.hexagonal.architecture.port.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

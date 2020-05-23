@@ -1,7 +1,7 @@
-package com.baeldung.hexagonal.architecture.port;
+package com.example.hexagonal.architecture.port;
 
-import com.baeldung.hexagonal.architecture.domain.model.Product;
-import com.baeldung.hexagonal.architecture.domain.service.ProductServiceImplementation;
+import com.example.hexagonal.architecture.domain.model.Product;
+import com.example.hexagonal.architecture.domain.service.ProductServiceImplementation;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

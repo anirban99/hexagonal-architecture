@@ -1,4 +1,4 @@
-package com.baeldung.hexagonal.architecture.domain.model;
+package com.example.hexagonal.architecture.domain.model;
 
 import java.util.Objects;
 

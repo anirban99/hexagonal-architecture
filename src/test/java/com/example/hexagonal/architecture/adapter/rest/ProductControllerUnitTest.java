@@ -1,7 +1,7 @@
-package com.baeldung.hexagonal.architecture.adapter.rest;
+package com.example.hexagonal.architecture.adapter.rest;
 
-import com.baeldung.hexagonal.architecture.domain.model.Product;
-import com.baeldung.hexagonal.architecture.port.ProductService;
+import com.example.hexagonal.architecture.domain.model.Product;
+import com.example.hexagonal.architecture.port.ProductService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,7 +1,7 @@
-package com.baeldung.hexagonal.architecture.adapter.persistence;
+package com.example.hexagonal.architecture.adapter.persistence;
 
-import com.baeldung.hexagonal.architecture.domain.model.Product;
-import com.baeldung.hexagonal.architecture.port.ProductRepository;
+import com.example.hexagonal.architecture.domain.model.Product;
+import com.example.hexagonal.architecture.port.ProductRepository;
 import org.springframework.stereotype.Repository;
 import java.util.ArrayList;
 import java.util.HashMap;
