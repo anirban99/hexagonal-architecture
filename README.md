@@ -7,4 +7,4 @@
 
 2. To run a Spring Boot module run the command: mvn spring-boot:run 
 
-####[Open API Specification](./specs/hexagonal-architecture-api.openapi.json)
+[Open API Specification](./specs/hexagonal-architecture-api.openapi.json)
