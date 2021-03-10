@@ -2,7 +2,7 @@
 
 This repository contains an implementation for a Spring-based application that illustrates the hexagonal architecture in Java.
 ### Linked articles:
-[Expat Dev Blog](https://expatdev.com/posts/hexagonal-architecture-in-java/) | [Medium](https://medium.com/@anirban99/hexagonal-architecture-in-java-9031d3570d15)
+[Expat Dev Blog](https://expatdev.com/posts/hexagonal-architecture-in-java/) | [Medium](https://medium.com/javarevisited/hexagonal-architecture-in-java-9031d3570d15)
 
 ## Getting Started
 
